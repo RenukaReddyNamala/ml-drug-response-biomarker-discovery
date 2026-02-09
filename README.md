@@ -40,20 +40,22 @@ This project builds an expression-based machine learning model to predict **Erlo
 
 ---
 
+
 ## Repository Structure
 
+```text
 ml-drug-response-biomarker-discovery/
 ├── notebooks/
-│ ├── 01_env_check.ipynb
-│ ├── 02_download_depmap_data.ipynb
-│ └── 03_expression_features.ipynb
+│   ├── 01_env_check.ipynb
+│   ├── 02_download_depmap_data.ipynb
+│   └── 03_expression_features.ipynb
 ├── results/
-│ └── expression_model/
-│ ├── plots/
-│ └── tables/
+│   └── expression_model/
+│       ├── plots/
+│       └── tables/
 ├── .gitignore
 └── README.md
----
+
 
 ## Notes
 
@@ -61,6 +63,7 @@ Raw expression matrices and large datasets are **not tracked** in this repositor
 Users can download them from:
 - https://depmap.org/portal/download/
 - https://www.cancerrxgene.org/
+
 
 
 
