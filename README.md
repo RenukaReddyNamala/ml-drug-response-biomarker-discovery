@@ -1,4 +1,4 @@
-# # ML Drug Response Biomarker Discovery
+ML Drug Response Biomarker Discovery
 
 This project builds an expression-based machine learning model to predict **Erlotinib drug response** using cancer cell line data from **GDSC1** and **DepMap (CCLE)**, with **SHAP-based interpretability** to identify potential biomarkers.
 
@@ -63,3 +63,4 @@ Raw expression matrices and large datasets are **not tracked** in this repositor
 Users can download them from:
 - https://depmap.org/portal/download/
 - https://www.cancerrxgene.org/
+
