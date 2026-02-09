@@ -55,18 +55,16 @@ ml-drug-response-biomarker-discovery/
 │       └── tables/
 ├── .gitignore
 └── README.md
+**ONLY this**:
 
-Notes
 
-Raw expression matrices and large datasets are not tracked in this repository
+```markdown
+## Notes
+
+Raw expression matrices and large datasets are **not tracked** in this repository
 due to size constraints.
 
 Users can download them from:
-
-https://depmap.org/portal/download/
-
-https://www.cancerrxgene.org/
-
-
-
+- https://depmap.org/portal/download/
+- https://www.cancerrxgene.org/
 
